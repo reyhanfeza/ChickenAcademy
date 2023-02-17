@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01762cb44e9ef7a4cb3518a37d166b2e, type: 3}
+  m_Name: PlayerLevel
+  m_EditorClassIdentifier: 
+  currentLevel: 1
+  levelsAndExp:
+  - Level: 1
+    Exp: 100
+    health: 100
+  - Level: 1
+    Exp: 200
+    health: 110
+  - Level: 1
+    Exp: 300
+    health: 120
